@@ -6,17 +6,12 @@ configuration.py
 Created by Patrick Shaner 2018-08-14
 Modified by Patrick Shaner 2018-10-18
 
-Copyright (c) 2018 Apple Inc., All rights reserved
+Copyright (c) 2019 Patrick Shaner, All rights reserved
 THE INFORMATION CONTAINED HEREIN IS PROPRIETARY AND CONFIDENTIAL
-TO APPLE, INC. USE, REPRODUCTION, OR DISCLOSURE IS SUBJECT TO PRE-APPROVAL
-BY APPLE, INC.
-
 
 Modified 2018-10-18
     Optimized imports
     Updated code to match style guide references Version 2.0
-        - private variables have been updated with a leading '_'
-        - Updated private functions with leading '_'
 
 """
 
